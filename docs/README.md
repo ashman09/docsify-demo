@@ -2,6 +2,6 @@
 
 > An awesome project.
 
- # PageHeading
+  Page Heading
 
 > Page 1 Description
